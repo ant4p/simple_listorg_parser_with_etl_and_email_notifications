@@ -1,0 +1,8 @@
+.idea
+venv
+.env
+.vscode
+settings.json
+launch.json
+.pylintrc
+__pycache__
