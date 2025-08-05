@@ -1,6 +1,6 @@
 ### Парсер сайта list-org.ru с обработкой полученных данных с помощью pandas и отправкой почты по списку email'ов полученных из данных с сайта. ###
 
-Для запуска - склонируйте проект командой git clone  <br/>
+Для запуска - склонируйте проект командой git clone https://github.com/ant4p/simple_listorg_parser_with_etl_and_email_notifications.git  <br/>
 Создайте виртуальное окружение.<br/>
 Установите в виртуальное окружение файл requirements.txt командой pip install -r requirements.txt<br/>
 Файл .env_example замените на .env c вашими данными: <br/>
